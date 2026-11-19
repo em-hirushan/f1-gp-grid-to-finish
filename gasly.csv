@@ -1,0 +1,135 @@
+year,round,race,grid,finish,status
+2021,1,Bahrain Grand Prix,5,17,Retired
+2021,2,Emilia Romagna Grand Prix,5,7,Finished
+2021,3,Portuguese Grand Prix,9,10,Finished
+2021,4,Spanish Grand Prix,12,10,+1 Lap
+2021,5,Monaco Grand Prix,6,6,Finished
+2021,6,Azerbaijan Grand Prix,4,3,Finished
+2021,7,French Grand Prix,6,7,Finished
+2021,8,Styrian Grand Prix,6,20,Collision
+2021,9,Austrian Grand Prix,6,9,Finished
+2021,10,British Grand Prix,11,11,Finished
+2021,11,Hungarian Grand Prix,5,5,Finished
+2021,12,Belgian Grand Prix,6,6,Finished
+2021,13,Dutch Grand Prix,4,4,+1 Lap
+2021,14,Italian Grand Prix,0,19,Suspension
+2021,15,Russian Grand Prix,11,13,+1 Lap
+2021,16,Turkish Grand Prix,4,6,Finished
+2021,17,United States Grand Prix,8,20,Suspension
+2021,18,Mexico City Grand Prix,5,4,Finished
+2021,19,São Paulo Grand Prix,7,7,+1 Lap
+2021,20,Qatar Grand Prix,2,11,+1 Lap
+2021,21,Saudi Arabian Grand Prix,6,6,Finished
+2021,22,Abu Dhabi Grand Prix,12,5,Finished
+2022,1,Bahrain Grand Prix,10,20,Power Unit
+2022,2,Saudi Arabian Grand Prix,9,8,Finished
+2022,3,Australian Grand Prix,11,9,Finished
+2022,4,Emilia Romagna Grand Prix,17,12,+1 Lap
+2022,5,Miami Grand Prix,7,18,Suspension
+2022,6,Spanish Grand Prix,14,13,+1 Lap
+2022,7,Monaco Grand Prix,17,11,Finished
+2022,8,Azerbaijan Grand Prix,6,5,Finished
+2022,9,Canadian Grand Prix,15,14,Finished
+2022,10,British Grand Prix,11,16,Collision damage
+2022,11,Austrian Grand Prix,14,15,+1 Lap
+2022,12,French Grand Prix,14,12,Finished
+2022,13,Hungarian Grand Prix,0,12,+1 Lap
+2022,14,Belgian Grand Prix,0,9,Finished
+2022,15,Dutch Grand Prix,11,11,Finished
+2022,16,Italian Grand Prix,5,8,Finished
+2022,17,Singapore Grand Prix,7,10,Finished
+2022,18,Japanese Grand Prix,17,18,Finished
+2022,19,United States Grand Prix,11,14,Finished
+2022,20,Mexico City Grand Prix,14,11,+1 Lap
+2022,21,São Paulo Grand Prix,10,14,Finished
+2022,22,Abu Dhabi Grand Prix,17,14,+1 Lap
+2023,1,Bahrain Grand Prix,20,9,Finished
+2023,2,Saudi Arabian Grand Prix,9,9,Finished
+2023,3,Australian Grand Prix,9,13,Retired
+2023,4,Azerbaijan Grand Prix,17,14,Finished
+2023,5,Miami Grand Prix,5,8,Finished
+2023,6,Monaco Grand Prix,7,7,Finished
+2023,7,Spanish Grand Prix,10,10,Finished
+2023,8,Canadian Grand Prix,15,12,Finished
+2023,9,Austrian Grand Prix,9,10,Finished
+2023,10,British Grand Prix,10,18,Retired
+2023,11,Hungarian Grand Prix,15,20,Retired
+2023,12,Belgian Grand Prix,12,11,Finished
+2023,13,Dutch Grand Prix,12,3,Finished
+2023,14,Italian Grand Prix,17,15,Finished
+2023,15,Singapore Grand Prix,12,6,Finished
+2023,16,Japanese Grand Prix,12,10,Finished
+2023,17,Qatar Grand Prix,7,12,Finished
+2023,18,United States Grand Prix,7,6,Finished
+2023,19,Mexico City Grand Prix,11,11,Finished
+2023,20,São Paulo Grand Prix,15,7,Finished
+2023,21,Las Vegas Grand Prix,4,11,Finished
+2023,22,Abu Dhabi Grand Prix,10,13,Finished
+2024,1,Bahrain Grand Prix,20,18,Lapped
+2024,2,Saudi Arabian Grand Prix,18,20,Retired
+2024,3,Australian Grand Prix,17,13,Lapped
+2024,4,Japanese Grand Prix,17,16,Lapped
+2024,5,Chinese Grand Prix,15,13,Finished
+2024,6,Miami Grand Prix,12,12,Finished
+2024,7,Emilia Romagna Grand Prix,15,16,Lapped
+2024,8,Monaco Grand Prix,10,10,Lapped
+2024,9,Canadian Grand Prix,15,9,Finished
+2024,10,Spanish Grand Prix,7,9,Finished
+2024,11,Austrian Grand Prix,13,10,Finished
+2024,12,British Grand Prix,19,20,Did not start
+2024,13,Hungarian Grand Prix,20,20,Retired
+2024,14,Belgian Grand Prix,12,13,Finished
+2024,15,Dutch Grand Prix,9,9,Lapped
+2024,16,Italian Grand Prix,14,15,Lapped
+2024,17,Azerbaijan Grand Prix,18,12,Finished
+2024,18,Singapore Grand Prix,18,17,Lapped
+2024,19,United States Grand Prix,6,12,Finished
+2024,20,Mexico City Grand Prix,8,10,Lapped
+2024,21,São Paulo Grand Prix,13,3,Finished
+2024,22,Las Vegas Grand Prix,3,20,Retired
+2024,23,Qatar Grand Prix,11,5,Finished
+2024,24,Abu Dhabi Grand Prix,5,7,Finished
+2025,1,Australian Grand Prix,9,11,Finished
+2025,2,Chinese Grand Prix,16,20,Disqualified
+2025,3,Japanese Grand Prix,11,13,Finished
+2025,4,Bahrain Grand Prix,4,7,Finished
+2025,5,Saudi Arabian Grand Prix,9,20,Retired
+2025,6,Miami Grand Prix,20,13,Finished
+2025,7,Emilia Romagna Grand Prix,10,13,Finished
+2025,8,Monaco Grand Prix,17,20,Retired
+2025,9,Spanish Grand Prix,8,8,Finished
+2025,10,Canadian Grand Prix,20,15,Lapped
+2025,11,Austrian Grand Prix,10,13,Lapped
+2025,12,British Grand Prix,8,6,Finished
+2025,13,Belgian Grand Prix,13,10,Finished
+2025,14,Hungarian Grand Prix,16,19,Lapped
+2025,15,Dutch Grand Prix,14,17,Finished
+2025,16,Italian Grand Prix,20,16,Lapped
+2025,17,Azerbaijan Grand Prix,18,18,Lapped
+2025,18,Singapore Grand Prix,19,19,Lapped
+2025,19,United States Grand Prix,14,19,Lapped
+2025,20,Mexico City Grand Prix,18,15,Lapped
+2025,21,São Paulo Grand Prix,9,10,Finished
+2025,22,Las Vegas Grand Prix,10,13,Finished
+2025,23,Qatar Grand Prix,9,16,Lapped
+2025,24,Abu Dhabi Grand Prix,19,19,Lapped
+2026,1,Australian Grand Prix,14,10,Lapped
+2026,2,Chinese Grand Prix,7,6,Finished
+2026,3,Japanese Grand Prix,7,7,Finished
+2026,4,Miami Grand Prix,9,21,Retired
+2026,5,Canadian Grand Prix,14,8,Lapped
+2026,6,Monaco Grand Prix,9,7,Finished
+2026,7,Barcelona Grand Prix,14,7,Lapped
+2026,8,Austrian Grand Prix,11,13,Lapped
+2026,9,British Grand Prix,15,10,Finished
+2026,10,Belgian Grand Prix,10,11,Finished
+2026,11,Hungarian Grand Prix,12,12,Lapped
+2026,12,Dutch Grand Prix,11,10,Lapped
+2026,13,Italian Grand Prix,1,7,Finished
+2026,14,Spanish Grand Prix,14,12,Lapped
+2026,15,Azerbaijan Grand Prix,7,18,Retired
+2026,16,Bahrain Grand Prix in Malaysia,9,16,Finished
+2026,17,Singapore Grand Prix,7,11,Lapped
+2026,18,United States Grand Prix,10,10,Finished
+2026,19,Mexico City Grand Prix,9,17,Finished
+2026,20,Brazilian Grand Prix,15,14,Lapped
